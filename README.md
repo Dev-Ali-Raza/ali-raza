@@ -19,8 +19,8 @@
 
 | Project | Screenshot | Description | Tech Stack |
 |--------|------------|-------------|------------|
-| **GoHighLevel API Integration** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/gohighlevel-1.png) | Multi-tenant integration of GoHighLevel APIs using .NET Core and Angular. | `.NET Core`, `Angular`, `SQL` |
-| **Garaj by Jazz (Animations)** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/garaj-2.gif) | Frontend animations using pure HTML, CSS, and JavaScript. | `HTML`, `CSS`, `JavaScript` |
+| **GoHighLevel API Integration** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/gohighlevel-1.jpg) | Multi-tenant integration of GoHighLevel APIs using .NET Core and Angular. | `.NET Core`, `Angular`, `SQL` |
+| **Garaj by Jazz (Animations)** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/garaj-1.gif) | Frontend animations using pure HTML, CSS, and JavaScript. | `HTML`, `CSS`, `JavaScript` |
 | **HyperPay Integration** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/Hyperpay-1.png) | Secure payment gateway integration with NopCommerce. | `.NET MVC`, `SQL` |
 | **SMSA Shipping Integration** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/Smsa-1.png) | Shipping management integration using SMSA API. | `.NET MVC`, `API` |
 | **Account Management System** | ![](https://dev-ali-raza.github.io/my-portfolio/images/Projects/accountms-1.png) | User and billing management with multi-tenant support. | `.NET Core`, `Angular`, `PrimeNG`, `SQL` |
